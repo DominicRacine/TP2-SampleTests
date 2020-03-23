@@ -17,10 +17,10 @@ Normalement, le code est prêt à être exécuté directement. Il est probableme
 
 ## Utilisation
 
-Le script `run.sh` prend trois paramètres en argument. Le premier est le chemin de votre TP2 compilé, le deuxième est le chemin vers un fichier de test et le dernier 
-est un chemin vers un endroit ou la sortie sera produite. Ainsi, une utilisation correcte pour le fichier `samples_one.sh` pourrait être:
+Le script `run.sh` prend trois paramètres en argument. Le premier est le chemin de votre TP2 compilé, le deuxième est un chemin vers un endroit ou la sortie sera produite et le dernier 
+est chemin vers un fichier de test. Ainsi, une utilisation correcte pour le fichier `samples_one.sh` pourrait être:
 
-`./run.sh "./TP2" "./tests/sample_ones.sh/" "./samples_one_output.out"`
+`./run.sh "./TP2"  "./samples_one_output.out" "./tests/sample_ones.sh/"`
 
 ### Vérification rapide des résultats
 
