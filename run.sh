@@ -6,4 +6,4 @@ program_path="$1"
 result_file="$2"
 test_file="$3"
  
-cat "$test_file" - | "$program_path" > "$test_file"
+cat "$test_file" - | "$program_path" > "$result_file"
