@@ -1,5 +1,7 @@
 bash: blocker: command not found
+lolimfirst
 bash: blocker: command not found
-muahahha_je_passe_avant_toi
+2e!
 bash: blocker: command not found
-oh_no_il_ma_depassee
+bash: blocker: command not found
+last
